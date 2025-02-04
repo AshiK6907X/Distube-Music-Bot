@@ -5,7 +5,7 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: process.env.YOUTUBE_API_KEY,
+    youtubeApiKey: process.env.AIzaSyDKavOPKptH8cyPo_sfR-ADeW35h-9QbhU,
     mongoUri: process.env.MONGO_URI,
     spotify: {
         clientId: process.env.SPOTIFY_CLIENT_ID,
